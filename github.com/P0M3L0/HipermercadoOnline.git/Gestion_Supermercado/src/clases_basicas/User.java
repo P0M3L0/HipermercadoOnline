@@ -11,7 +11,7 @@ public class User {
 	String num_telefono;
 	String User_name;
 	String password;
-	//Getter & Setters
+	//Getter & Setters //++
 	
 	public String getNombre() {
 		return nombre;

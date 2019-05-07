@@ -6,7 +6,7 @@ public class User_admin extends User {
 	Integer presupuesto;
 	String provincia;
 	
-	
+	//+
 	
 	public int getNumero_integrantes_familia() {
 		return numero_integrantes_familia;
