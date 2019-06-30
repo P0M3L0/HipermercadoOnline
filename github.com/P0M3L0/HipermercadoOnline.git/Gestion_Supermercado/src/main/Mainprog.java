@@ -1,6 +1,6 @@
 package main;
 
-import Ventanas.VentanaPrincipalCarga;
+import ventanas.VentanaPrincipalCarga;
 
 public class Mainprog {
 
